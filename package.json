@@ -12,6 +12,6 @@
     "prettier": "^2.1.2"
   },
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^1.8.2"
   }
 }
